@@ -5,12 +5,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/neal-patel826/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/neal-patel826/Log-N--Pacific/tree/main/Vulnerability-Management-Program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/neal-patel826/Log-N--Pacific/tree/main/Programmatic%20Vulnerability%20Remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/neal-patel826/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/neal-patel826/Log-N--Pacific/tree/main/Tor%20Threat%20Hunt)**
 
 <hr/>
 
